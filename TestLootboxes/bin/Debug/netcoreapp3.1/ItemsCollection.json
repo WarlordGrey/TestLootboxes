@@ -1,0 +1,27 @@
+[
+	{
+		"id" : "0",
+		"name" : "Coin",
+		"existenceChance" : 0.33
+	},
+	{
+		"id" : "1",
+		"name" : "Health Potion",
+		"existenceChance" : 0.5
+	},
+	{
+		"id" : "2",
+		"name" : "Mana Potion",
+		"existenceChance" : 0.5
+	},
+	{
+		"id" : "3",
+		"name" : "Sword",
+		"existenceChance" : 0.25
+	},
+	{
+		"id" : "4",
+		"name" : "Ring",
+		"existenceChance" : 0.2
+	},
+]
